@@ -1,0 +1,79 @@
+.container {
+  font-family: 'Montserrat', sans-serif;
+  padding: 32px;
+}
+
+.title {
+  color: black;
+  font-size: 38px;
+  font-weight: 600;
+  min-height: 132px;
+  margin-top: 16px;
+}
+
+.email{
+  color: #FF6969;
+}
+
+.subtitle{
+  font-size: 20px;
+}
+
+.section-title {
+  color: #FF6969;
+  font-size: 24px;
+  margin-bottom: 14px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #BDC1C4;
+  margin-bottom: 16px;
+  max-width: 760px;
+}
+
+.company-header {
+  margin-bottom: 8px;
+}
+
+.company-name {
+  color: black;
+  font-weight: 400;
+  font-size: 24px;
+  margin-right: 8px;
+}
+
+.compay-subtitle {
+  color: #292C2F;
+  font-size: 16px;
+}
+
+.section-content {
+  margin: 0 0 16px 16px;
+  max-width: 760px;
+}
+
+.projects-section {
+  margin: 16px 16px;
+}
+
+.work-project{
+  margin: 8px 0
+}
+
+.real-talk-project {
+  margin-left: 24px;
+  color: #52575B;
+  font-style: italic;
+}
+
+.section-subtitle {
+  margin: 12px 0;
+}
+
+.volunteer-company {
+  color: black;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.volunteer-description {
+  margin: 12px
+}
